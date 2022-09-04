@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2\MDT-Ex1\bin\Debug\net6.0\MDT-Ex1.exe
+D:\Works\GDMY2\CODEY2\MDT-Ex1\bin\Debug\net6.0\MDT-Ex1.deps.json
+D:\Works\GDMY2\CODEY2\MDT-Ex1\bin\Debug\net6.0\MDT-Ex1.runtimeconfig.json
+D:\Works\GDMY2\CODEY2\MDT-Ex1\bin\Debug\net6.0\MDT-Ex1.dll
+D:\Works\GDMY2\CODEY2\MDT-Ex1\bin\Debug\net6.0\MDT-Ex1.pdb
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.dll
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\refint\MDT-Ex1.dll
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.pdb
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\MDT-Ex1.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2\MDT-Ex1\obj\Debug\net6.0\ref\MDT-Ex1.dll
